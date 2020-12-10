@@ -1,0 +1,40 @@
+*{
+    margin: 2px;
+    padding: 0;
+    background: coral;
+    font-family: sans-serif;
+}
+h1 ,h3
+{
+    text-align: center;
+}
+section
+{
+    display: block;
+    margin: 10px 20px;
+    padding: 20px 10px;
+    border: 2px solid red;
+    border-radius: 5px;
+}
+table
+{
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 5px;
+    margin: auto;
+    padding:10px 10px;
+    width: 80%;
+}
+td
+{
+    border: 2px solid black;
+}
+a
+{
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
